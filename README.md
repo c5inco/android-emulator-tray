@@ -1,0 +1,1 @@
+Tray app to launch the Android Emulator on OS X
